@@ -59,7 +59,6 @@ run_conv(x,h,y);
 
 %% Problem 2
 
-close all;
 
 % origianl signal
 x = zeros(33,1);
