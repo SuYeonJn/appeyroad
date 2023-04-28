@@ -3,7 +3,7 @@
 %
 % Hayeon Lee @ LIST, Seoul National University
 % http://list.snu.ac.kr
-% hiyeon@snu.ac.kr
+% hiyeon@snu.ac.kr 컨플릭트!!!컨플릭트!!!컨플릭트!!!컨플릭트!!!컨플릭트!!!컨플릭트!!!컨플릭트!!!
 %
 
 %% Press CTRL+ENTER to run this section
